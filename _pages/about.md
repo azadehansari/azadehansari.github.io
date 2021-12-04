@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Azadeh Ansari. I earned my PhD degree from west virginia university in industrial engineering. My research interests are optimization, data science and machine learning.  
+My name is Azadeh Ansari. I earned my PhD degree from West Virginia University in industrial engineering. My research interests are optimization, data science and machine learning.  
 
 
 
